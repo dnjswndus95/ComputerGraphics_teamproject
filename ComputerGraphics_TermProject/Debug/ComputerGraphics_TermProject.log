@@ -1,0 +1,62 @@
+﻿  Board.cpp
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Pattern' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(24,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Shadow' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(94,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(94,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(95,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(95,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(96,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(96,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(97,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(97,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(108,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(108,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(109,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(109,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(113,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(113,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(114,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(114,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(118,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(118,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(119,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(119,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(123,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(123,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(124,70): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.cpp(124,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Pattern' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(24,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Shadow' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(194,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(255,27): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(274,27): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(290,34): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(356,58): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(356,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(357,58): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(357,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(358,58): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(358,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(359,58): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(359,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(373,41): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(374,40): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(375,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(376,28): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(399,21): warning C4101: 'rot' :참조되지 않은 지역 변수입니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(410,22): warning C4101: 'rot' :참조되지 않은 지역 변수입니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(420,25): warning C4101: 'rot1' :참조되지 않은 지역 변수입니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(947,82): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\main.cpp(919,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Player.cpp
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(11,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Pattern' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Board.h(24,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Shadow' 왼쪽은 무시됩니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(171,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(233,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(238,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(249,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(275,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\원주연\Desktop\ComputerGraphics_TermProject\ComputerGraphics_TermProject\Player.cpp(299,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  ComputerGraphics_TermProject.vcxproj -> C:\Users\원주연\Desktop\ComputerGraphics_TermProject\Debug\ComputerGraphics_TermProject.exe
